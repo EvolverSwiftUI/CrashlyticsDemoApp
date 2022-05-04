@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>677354306377-g244e8p586kmhkffcfr5iotpt9sg0ue1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.677354306377-g244e8p586kmhkffcfr5iotpt9sg0ue1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAycT9qjTHaoH_4u69b7CUe9jJusfYZjaI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>677354306377</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.org.CrashlyticsDemoApp</string>
+	<key>PROJECT_ID</key>
+	<string>demooncrash</string>
+	<key>STORAGE_BUCKET</key>
+	<string>demooncrash.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:677354306377:ios:3bf7c9e38ddcb785caf898</string>
+</dict>
+</plist>
